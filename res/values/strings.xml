@@ -4,11 +4,7 @@
     <string name="app_name">Authentication Demo</string>
     <string name="app_id">1439998416226929</string>
     
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="edit_message">This is an edit box</string>
-    <string name="button_send">Send</string>
-    
     <string name="get_started">To get started, log in using Facebook</string>
+    <string name="settings">Settings</string>
     
 </resources>
